@@ -1,4 +1,4 @@
-#**Hi**
-#This repositary contains Data structure and algo codes.
+#Hi
+This repositary contains Data structure and algo codes.
 
  
