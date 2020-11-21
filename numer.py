@@ -20,4 +20,4 @@ def check(x):
     else:
         return "Weak"
 stri=input("give string")
-print(check(stri))
+print(check(str))
