@@ -21,3 +21,8 @@ def check(x):
         return "Weak"
 stri=input("give string")
 print(check(stri))
+
+def f(c):
+    return c+"hello world"
+c=input("give string")
+print(f(c))
