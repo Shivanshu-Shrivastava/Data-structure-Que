@@ -3,7 +3,7 @@ def check(x):
     alpha=[str(x) for x in range(1,10)]
     scount=0
     count=0
-    if 14<len(x)<7:
+    if 14<len(x) or len(x)<7:
         return "Weak"
     else:
         for i in x:
@@ -20,4 +20,4 @@ def check(x):
     else:
         return "Weak"
 stri=input("give string")
-print(check(str))
+print(check(stri))
